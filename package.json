@@ -1,0 +1,57 @@
+{
+  "name": "bee-docs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "prebuild": "node scripts/fetch-awesome-swarm.mjs",
+    "build": "docusaurus build",
+    "build:quiet": "cross-env NODE_OPTIONS=\"--disable-warning=DEP0040 --disable-warning=DEP0169\" docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "serve": "docusaurus serve"
+  },
+  "dependencies": {
+    "@docsearch/js": "^4.3.2",
+    "@docusaurus/core": "^3.9.2",
+    "@docusaurus/plugin-client-redirects": "^3.9.2",
+    "@docusaurus/preset-classic": "^3.9.2",
+    "@docusaurus/theme-mermaid": "^3.9.2",
+    "@mdx-js/react": "^3.1.0",
+    "@saucelabs/theme-github-codeblock": "^0.3.0",
+    "babel-plugin-styled-components": "^2.1.4",
+    "clsx": "^2.1.1",
+    "docusaurus-plugin-llms": "^0.2.2",
+    "docusaurus-plugin-matomo": "^0.0.8",
+    "hast-util-is-element": "^3.0.0",
+    "iconv-lite": "^0.7.2",
+    "plugin-image-zoom": "github:flexanalytics/plugin-image-zoom",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.3",
+    "redocusaurus": "^2.2.1",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0",
+    "yaml": "^2.8.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.6.0"
+  },
+  "devDependencies": {
+    "cross-env": "^10.1.0"
+  }
+}

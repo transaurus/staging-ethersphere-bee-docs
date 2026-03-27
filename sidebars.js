@@ -1,0 +1,144 @@
+module.exports = {
+  concepts: [
+    'concepts/introduction',
+    'concepts/what-is-swarm',
+    {
+      type: 'category',
+      label: 'DISC Storage',
+      items: [
+        'concepts/DISC/disc',
+        'concepts/DISC/kademlia',
+        'concepts/DISC/neighborhoods',
+        'concepts/DISC/erasure-coding',
+      ],
+      collapsed: false
+    },
+    {
+      type: 'category',
+      label: 'Incentives',
+      items: [
+        'concepts/incentives/overview',
+        'concepts/incentives/redistribution-game',
+        'concepts/incentives/postage-stamps',
+        'concepts/incentives/bandwidth-incentives',
+        'concepts/incentives/price-oracle',
+        
+      ],
+      collapsed: false
+    },
+    'concepts/pss',
+    'concepts/access-control',
+    
+   
+  ],
+  desktop: [
+    'desktop/introduction',
+    'desktop/install',
+    'desktop/configuration',
+    'desktop/access-content',
+    'desktop/postage-stamps',
+    'desktop/upload-content',
+    'desktop/backup-restore',
+    'desktop/publish-a-website',
+    'desktop/start-a-blog',
+  ],
+  bee: [
+    {
+      type: 'category',
+      label: 'Installation',
+      items: [
+        'bee/installation/getting-started',
+        'bee/installation/quick-start',
+        'bee/installation/shell-script-install',
+        'bee/installation/docker',
+        'bee/installation/package-manager-install',
+        'bee/installation/build-from-source',
+        'bee/installation/set-target-neighborhood',
+        'bee/installation/hive',
+        'bee/installation/connectivity',
+        'bee/installation/fund-your-node',
+      ],
+      collapsed: false
+    },
+    {
+      type: 'category',
+      label: 'Working With Bee',
+      items: [
+        'bee/working-with-bee/introduction',
+        'bee/working-with-bee/configuration',
+        'bee/working-with-bee/node-types',
+        'bee/working-with-bee/bee-api',
+        'bee/working-with-bee/logs-and-files',
+        'bee/working-with-bee/swarm-cli',
+        'bee/working-with-bee/staking',
+        'bee/working-with-bee/cashing-out',
+        'bee/working-with-bee/monitoring',
+        'bee/working-with-bee/backups',
+        'bee/working-with-bee/upgrading-bee',
+        'bee/working-with-bee/uninstalling-bee',
+        
+      ],
+      collapsed: false
+    },
+    'bee/bee-faq',
+  ],
+  develop: [
+    {
+      type: 'category',
+      label: 'Develop',
+      items: [
+        'develop/introduction',
+        'develop/upload-and-download',
+        'develop/host-your-website',
+        'develop/files',
+        'develop/routing',
+        'develop/gateway-proxy',
+        'develop/dynamic-content',
+        'develop/multi-author-blog',
+        'develop/act',
+      ],
+      collapsed: false
+    },
+
+    {
+      type: 'category',
+      label: 'Tools and Features',
+      items: [
+        'develop/tools-and-features/introduction',
+        'develop/tools-and-features/buy-a-stamp-batch',
+        'develop/tools-and-features/bee-js',
+        'develop/tools-and-features/gateway-proxy',
+        'develop/tools-and-features/chunk-types',
+        'develop/tools-and-features/feeds',
+        'develop/tools-and-features/manifests',
+        'develop/tools-and-features/pss',
+        'develop/tools-and-features/gsoc',
+        'develop/tools-and-features/pinning',
+        'develop/tools-and-features/erasure-coding',
+        'develop/tools-and-features/store-with-encryption',
+        'develop/tools-and-features/bee-dev-mode',
+        'develop/tools-and-features/starting-a-test-network',
+      ],
+      collapsed: false
+    },
+    {
+      type: 'category',
+      label: 'Contribute',
+      items: [
+        'develop/contribute/introduction',
+        'develop/contribute/protocols',
+      ],
+      collapsed: false
+    },
+
+  ],
+  References: [
+    'references/smart-contracts',
+    'references/tokens',
+    'references/glossary',
+    'references/community',
+    'references/fair-data-society',
+    'references/faq',
+    'references/awesome-list',
+     ],
+};

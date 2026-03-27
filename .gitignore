@@ -1,0 +1,15 @@
+examples
+.docusaurus
+.claude
+node_modules
+.DS_Store
+resources
+# Local Netlify folder
+.netlify
+# Generated content
+/src/pages/awesome-swarm.mdx    
+test
+*.zip
+*.csv
+# LLM Tools
+.claude

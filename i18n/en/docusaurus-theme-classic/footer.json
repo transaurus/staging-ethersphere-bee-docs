@@ -1,0 +1,46 @@
+{
+  "link.title.Swarm Foundation": {
+    "message": "Swarm Foundation",
+    "description": "The title of the footer links column with title=Swarm Foundation in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Homepage": {
+    "message": "Homepage",
+    "description": "The label of footer link with label=Homepage linking to https://ethswarm.org"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/wdghaQsGq5"
+  },
+  "link.item.label.Mattermost": {
+    "message": "Mattermost",
+    "description": "The label of footer link with label=Mattermost linking to https://beehive.ethswarm.org/"
+  },
+  "link.item.label.Reddit": {
+    "message": "Reddit",
+    "description": "The label of footer link with label=Reddit linking to https://www.reddit.com/r/ethswarm"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/ethswarm"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to https://blog.ethswarm.org/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/ethersphere/bee"
+  },
+  "copyright": {
+    "message": "Copyleft © 2026.",
+    "description": "The footer copyright"
+  }
+}
