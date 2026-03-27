@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/ethersphere/bee-docs",
+  "branch": "master",
+  "docusaurusRoot": ".",
+  "configFile": "docusaurus.config.mjs",
+  "translateCommand": "npx docusaurus write-translations",
+  "buildCommand": "npm run build",
+  "buildOutput": "build",
+  "packageManager": "npm"
+}
