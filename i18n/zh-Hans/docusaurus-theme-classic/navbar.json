@@ -1,0 +1,142 @@
+{
+  "logo.alt": {
+    "message": "Swarm Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Concepts": {
+    "message": "Concepts",
+    "description": "Navbar item with label Concepts"
+  },
+  "item.label.Bee Client": {
+    "message": "Bee Client",
+    "description": "Navbar item with label Bee Client"
+  },
+  "item.label.Develop": {
+    "message": "Develop",
+    "description": "Navbar item with label Develop"
+  },
+  "item.label.Desktop App": {
+    "message": "Desktop App",
+    "description": "Navbar item with label Desktop App"
+  },
+  "item.label.References": {
+    "message": "References",
+    "description": "Navbar item with label References"
+  },
+  "item.label.API Specification": {
+    "message": "API Specification",
+    "description": "Navbar item with label API Specification"
+  },
+  "item.label.Introduction": {
+    "message": "Introduction",
+    "description": "Navbar item with label Introduction"
+  },
+  "item.label.What is Swarm?": {
+    "message": "What is Swarm?",
+    "description": "Navbar item with label What is Swarm?"
+  },
+  "item.label.DISC Storage": {
+    "message": "DISC Storage",
+    "description": "Navbar item with label DISC Storage"
+  },
+  "item.label.Incentives": {
+    "message": "Incentives",
+    "description": "Navbar item with label Incentives"
+  },
+  "item.label.PSS": {
+    "message": "PSS",
+    "description": "Navbar item with label PSS"
+  },
+  "item.label.Access Control": {
+    "message": "Access Control",
+    "description": "Navbar item with label Access Control"
+  },
+  "item.label.Installation": {
+    "message": "Installation",
+    "description": "Navbar item with label Installation"
+  },
+  "item.label.Working With Bee": {
+    "message": "Working With Bee",
+    "description": "Navbar item with label Working With Bee"
+  },
+  "item.label.Bee FAQ": {
+    "message": "Bee FAQ",
+    "description": "Navbar item with label Bee FAQ"
+  },
+  "item.label.Getting Started": {
+    "message": "Getting Started",
+    "description": "Navbar item with label Getting Started"
+  },
+  "item.label.Building on Swarm": {
+    "message": "Building on Swarm",
+    "description": "Navbar item with label Building on Swarm"
+  },
+  "item.label.Tools and Features": {
+    "message": "Tools and Features",
+    "description": "Navbar item with label Tools and Features"
+  },
+  "item.label.Contribute to Bee Development": {
+    "message": "Contribute to Bee Development",
+    "description": "Navbar item with label Contribute to Bee Development"
+  },
+  "item.label.Install": {
+    "message": "Install",
+    "description": "Navbar item with label Install"
+  },
+  "item.label.Configuration": {
+    "message": "Configuration",
+    "description": "Navbar item with label Configuration"
+  },
+  "item.label.Access Content": {
+    "message": "Access Content",
+    "description": "Navbar item with label Access Content"
+  },
+  "item.label.Postage Stamps": {
+    "message": "Postage Stamps",
+    "description": "Navbar item with label Postage Stamps"
+  },
+  "item.label.Upload Content": {
+    "message": "Upload Content",
+    "description": "Navbar item with label Upload Content"
+  },
+  "item.label.Backup and Restore": {
+    "message": "Backup and Restore",
+    "description": "Navbar item with label Backup and Restore"
+  },
+  "item.label.Publish a Static Website": {
+    "message": "Publish a Static Website",
+    "description": "Navbar item with label Publish a Static Website"
+  },
+  "item.label.Start a Blog": {
+    "message": "Start a Blog",
+    "description": "Navbar item with label Start a Blog"
+  },
+  "item.label.Smart Contracts": {
+    "message": "Smart Contracts",
+    "description": "Navbar item with label Smart Contracts"
+  },
+  "item.label.Tokens": {
+    "message": "Tokens",
+    "description": "Navbar item with label Tokens"
+  },
+  "item.label.Community": {
+    "message": "Community",
+    "description": "Navbar item with label Community"
+  },
+  "item.label.Glossary": {
+    "message": "Glossary",
+    "description": "Navbar item with label Glossary"
+  },
+  "item.label.Fair Data Society": {
+    "message": "Fair Data Society",
+    "description": "Navbar item with label Fair Data Society"
+  },
+  "item.label.Awesome Swarm": {
+    "message": "Awesome Swarm",
+    "description": "Navbar item with label Awesome Swarm"
+  },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  }
+}

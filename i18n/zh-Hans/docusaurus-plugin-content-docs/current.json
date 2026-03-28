@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.concepts.category.DISC Storage": {
+    "message": "DISC Storage",
+    "description": "The label for category 'DISC Storage' in sidebar 'concepts'"
+  },
+  "sidebar.concepts.category.Incentives": {
+    "message": "Incentives",
+    "description": "The label for category 'Incentives' in sidebar 'concepts'"
+  },
+  "sidebar.bee.category.Installation": {
+    "message": "Installation",
+    "description": "The label for category 'Installation' in sidebar 'bee'"
+  },
+  "sidebar.bee.category.Working With Bee": {
+    "message": "Working With Bee",
+    "description": "The label for category 'Working With Bee' in sidebar 'bee'"
+  },
+  "sidebar.develop.category.Develop": {
+    "message": "Develop",
+    "description": "The label for category 'Develop' in sidebar 'develop'"
+  },
+  "sidebar.develop.category.Tools and Features": {
+    "message": "Tools and Features",
+    "description": "The label for category 'Tools and Features' in sidebar 'develop'"
+  },
+  "sidebar.develop.category.Contribute": {
+    "message": "Contribute",
+    "description": "The label for category 'Contribute' in sidebar 'develop'"
+  }
+}

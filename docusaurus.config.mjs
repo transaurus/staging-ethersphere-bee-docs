@@ -4,6 +4,10 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 export default {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   title: 'Swarm Documentation',
   tagline: 'Welcome to the Swarm',
   url: 'https://docs.ethswarm.org',
